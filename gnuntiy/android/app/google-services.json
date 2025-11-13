@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487489423612",
+    "project_id": "gnunity-d6cee",
+    "storage_bucket": "gnunity-d6cee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487489423612:android:5c62354f1d6b9b576d6f79",
+        "android_client_info": {
+          "package_name": "com.example.gnunity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsM8ApLCvIebAwDdsoNTtgL-Jlkd8qY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
